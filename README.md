@@ -1,1 +1,2 @@
 # LibraryManageSystem
+数据库的初始化，可以使用本项目提供的initdatabase.sql
