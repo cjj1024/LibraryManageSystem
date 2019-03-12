@@ -1,5 +1,5 @@
 use mysql;
-insert into user(host, user, password) values('localhost', 'user', password('123445');
+insert into user(host, user, password) values('localhost', 'user', password('123456');
 
 create database LibraryManageSystem;
 use LibraryManageSystem;
